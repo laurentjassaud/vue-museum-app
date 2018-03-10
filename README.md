@@ -3,7 +3,7 @@
 > A vue.js application using 
 
 a Vue.js project using the RMN-GP API (https://docs.art.rmngp.fr/)
-basef on https://github.com/dmtrbrl/tmdb-app
+based on https://github.com/dmtrbrl/tmdb-app
 
 ## Build Setup
 
